@@ -8,7 +8,7 @@
 
 Name of QuantLet : CRCnetjel
 
-Published in : CRC - Evaluating Research Performance of Collaborative Research Center
+Published in : CRC - Evaluating Research Performance of the Collaborative Research Center
 
 Description : 'Network map of of collaborating disciplines in CRC 649 
 according to JEL classification'
