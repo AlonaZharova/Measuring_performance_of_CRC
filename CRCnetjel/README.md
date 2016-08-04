@@ -13,7 +13,7 @@ Published in : CRC - Evaluating Research Performance of the Collaborative Resear
 Description : 'Network map of of collaborating disciplines in CRC 649 
 according to JEL classification'
 
-Keywords : 'plot, analysis, visualization, data visualization, discriptive 
+Keywords : 'plot, analysis, visualization, data visualization, descriptive-
 methods, distribution, graphical representation, descriptive'
 
 Author : Alona Zharova
