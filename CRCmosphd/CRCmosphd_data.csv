@@ -1,0 +1,9 @@
+Gender;JobArea;Country;Freq
+Male;Academia;Germany;21
+Male;Academia;Other;7
+Male;Other;Germany;10
+Male;Other;Other;3
+Female;Academia;Germany;11
+Female;Academia;Other;6
+Female;Other;Germany;6
+Female;Other;Other;1
