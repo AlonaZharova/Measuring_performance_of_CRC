@@ -1,0 +1,20 @@
+﻿
+Name of QuantLet : CRCtreemapebc
+
+Published in : CRC - Evaluating Research Performance of the Collaborative Research Center 649
+
+Description : 'Produces the tree map of study decision of 117 alumnus of the Econ Boot Camp (EBC) from 
+2008 to 2016'
+
+Keywords : 'plot, tree map, analysis, descriptive, descriptive-methods, distribution, graphical 
+representation, visualization, data visualization'
+
+Author : Alona Zharova, Janine Tellinger-Rice, Wolfgang Karl Härdle
+
+Submitted : Sun, October 16 2016 by Dominik Prugger, Alona Zharova
+
+Datafile : 'CRCtreemapebc_data.csv - The data set contains the summarized information from a survey, 
+hold by CRC 649 about the area of current (2016, March) study of participants of the EBC from 2008 
+to 2016: titles of study areas, number of persons within each one and corresponding persentage'
+
+Output : 'Tree map of study decision of 117 participants (alumnus) of the EBC from 2008 to 2016'
