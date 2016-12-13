@@ -1,5 +1,5 @@
 ﻿
-Name of QuantLet : CRCmapgu
+Name of QuantLet : CRCmapev
 
 Published in : CRC - Evaluating Research Performance of the Collaborative Research Center 649
 
@@ -23,4 +23,3 @@ June (paid from CRC)'
 June (paid from CRC)'
 - 3: 'MAp of Germany and close countries with the locations of scientific events visited by CRC 
 members from 2005 to 2016, June (paid from CRC)'
-
