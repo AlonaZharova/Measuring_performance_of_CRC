@@ -1,10 +1,9 @@
-﻿
+
 Name of QuantLet : CRCmosphd
 
 Published in : CRC - Evaluating Research Performance of the Collaborative Research Center 649
 
-Description : 'Produces the mosaic plot of current jobs (for June, 2016) of CRC members who defended their PhD 
-from 2005 to 2016, June'
+Description : Produces the mosaic plot of current jobs (for June, 2016) of CRC members who defended their PhD from 2005 to 2016, June
 
 Keywords : 'plot, mosaic plot, multivariate, analysis, descriptive, descriptive-methods, distribution, 
 graphical representation, visualization, data visualization'

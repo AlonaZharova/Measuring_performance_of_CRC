@@ -1,10 +1,9 @@
-﻿
+
 Name of QuantLet : CRCmapgu
 
 Published in : CRC - Evaluating Research Performance of the Collaborative Research Center 649
 
-Description : 'Produces a map of university locations of guest researchers who visited the CRC from 2005 
-to 2016, June'
+Description : 'Produces a map of university locations of guest researchers who visited the CRC from 2005 to 2016, June'
 
 Keywords : 'plot, map, multivariate, analysis, descriptive, descriptive-methods, distribution, 
 graphical representation, visualization, data visualization'

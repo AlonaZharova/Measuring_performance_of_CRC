@@ -1,4 +1,4 @@
-﻿
+
 Name of QuantLet : CRCnetjel
 
 Published in : CRC - Evaluating Research Performance of Collaborative Research Center
