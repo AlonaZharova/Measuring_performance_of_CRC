@@ -1,42 +1,38 @@
-﻿
-[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **CRCmosphd** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
+## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **CRCmosphd** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
-
 Name of QuantLet : CRCmosphd
 
-Published in : 'CRC - Evaluating Research Performance of the Collaborative Research Center 649'
+Published in : CRC - Evaluating Research Performance of the Collaborative Research Center 649
 
-Description : 'Produces the mosaic plot of current jobs (for June, 2016) of CRC members who defended their PhD 
-from 2005 to 2016, June'
+Description : 'Produces the mosaic plot of current jobs (for June, 2016) of CRC members who
+defended their PhD from 2005 to 2016, June'
 
-Keywords : 'plot, mosaic plot, multivariate, analysis, descriptive, descriptive-methods, distribution, 
-graphical representation, visualization, data visualization'
+Keywords : 'plot, mosaic plot, multivariate, analysis, descriptive, descriptive-methods,
+distribution, graphical representation, visualization, data visualization'
 
 Author : Alona Zharova
 
 Submitted : Sun, October 16 2016 by Alona Zharova
 
-Datafile : 'CRCmosphd_data.csv - The data set is contingency table that displays the multivariate frequency 
-distribution of the variables: gender (male/female), JobArea (Academia/Other), Country (Germany/Other) and 
-the corresponding frequency'
+Datafile : 'CRCmosphd_data.csv - The data set is contingency table that displays the multivariate
+frequency distribution of the variables: gender (male/female), JobArea (Academia/Other), Country
+(Germany/Other) and the corresponding frequency.'
 
-Output : 'Mosaic plot of current jobs (for June, 2016) of 65 CRC members who defended their PhD from 2005 to 2016, 
-June'
-
+Output : 'Mosaic plot of current jobs (for June, 2016) of 65 CRC members who defended their PhD
+from 2005 to 2016, June'
 
 ```
 
 ![Picture1](CRCmosphd.png)
 
 
+### R Code:
 ```r
-
-
 # Close windows and clear variables
 graphics.off()
 rm(list = ls(all = TRUE))

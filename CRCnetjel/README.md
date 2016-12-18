@@ -1,41 +1,38 @@
-﻿
-[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **CRCnetjel** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
+## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **CRCnetjel** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
 Name of QuantLet : CRCnetjel
 
-Published in : CRC - Evaluating Research Performance of the Collaborative Research Center
+Published in : CRC - Evaluating Research Performance of Collaborative Research Center
 
-Description : 'Network map of of collaborating disciplines in CRC 649 
-according to JEL classification'
+Description : 'Network map of of collaborating disciplines in CRC 649 according to JEL
+classification'
 
-Keywords : 'plot, analysis, visualization, data visualization, descriptive-
-methods, distribution, graphical representation, descriptive'
+Keywords : 'plot, analysis, visualization, data visualization, descriptive methods, distribution,
+graphical representation, descriptive'
 
 Author : Alona Zharova
 
 Submitted : Thu, August 04 2016 by Alona Zharova
 
-Datafile : 'CRCDP.csv - The data set contains 776 discussion papers (DP) with 
-authors, DP IDs, year of publication, link to the quantlet (if available), 
-date of issue, CRC subproject's number of authors and JEL codes of DP'
+Datafile : 'CRCDP.csv - The data set contains 776 discussion papers (DP) with authors, DP IDs, year
+of publication, link to the quantlet (if available), date of issue, CRC subproject's number of
+authors and JEL codes of DP'
 
-Output : 'Network of 760 discussion papers (yellow) and 20 JEL codes (blue) 
-published from 2005 to 2016, June'
-
+Output : 'Network of 760 discussion papers (yellow) and 20 JEL codes (blue) published from 2005 to
+2016, June'
 
 ```
 
 ![Picture1](CRCnetjel.png)
 
 
+### R Code:
 ```r
-
-
 # Close windows and clear variables
 graphics.off()
 rm(list = ls(all = TRUE))
@@ -242,9 +239,12 @@ tkid = tkplot(net) # tkid is the id of the tkplot that will open
 plot(net, layout = l)
 
 
+
 # Literature:
   # http://igraph.org/r/
   # http://kateto.net/networks-r-igraph
   # www.kateto.net/wordpress/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf
+
+
 
 ```
