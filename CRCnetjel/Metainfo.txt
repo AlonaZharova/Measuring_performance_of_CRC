@@ -12,6 +12,6 @@ Author : Alona Zharova
 Submitted : Thu, August 04 2016 by Alona Zharova
 
 Datafile : 'CRCDP.csv - The data set contains 776 discussion papers (DP) with authors, DP IDs, year of publication, link to the quantlet (if available),
-date of issue, CRC subproject''s number of authors and JEL codes of DP'
+date of issue, CRC subproject's number of authors and JEL codes of DP'
 
 Output : 'Network of 760 discussion papers (yellow) and 20 JEL codes (blue) published from 2005 to 2016, June'
