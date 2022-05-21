@@ -1,19 +1,14 @@
-﻿
-[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+# How to Measure the Performance of a Collaborative Research Center
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **How to Measure a Performance of a Collaborative Research Centre** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
-
-
-```yaml
-
-
-
-Authors: Alona Zharova, Janine Tellinger-Rice and Wolfgang Karl Härdle
-
-Project: CRC - Collaborative Research Centre
-
-Title: How to Measure a Performance of a Collaborative Research Centre
-
+A digital companion to the research paper 
 
 ```
+Alona Zharova, Janine Tellinger-Rice and Wolfgang Karl Härdle
+How to Measure the Performance of a Collaborative Research Center.
+Scientometrics, 117, 1023–1040 (2018). 
+https://doi.org/10.1007/s11192-018-2910-8
+```
 
+The paper is available at: [Publisher's website](https://doi.org/10.1007/s11192-018-2910-8).
+
+The preprint is also available at: [SFB 649 Discussion Papers](https://www.econstor.eu/bitstream/10419/191793/1/SFB649DP2018-001.pdf)
