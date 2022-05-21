@@ -33,7 +33,7 @@ The repository contains four visualizations in the corresponding folders. Each f
 
 ## Acknoledgements
 
-Financial support from the German Research Foundation (DFG) via Collaborative Research Center 649 ‘‘Economic Risk’’ and International Research Training Group 1792 ‘‘High Dimensional Nonstationary Time Series’’, Humboldt-Universita ̈t zu Berlin, is gratefully acknowledged. We are thankful for the assistance provided by Nicole Hermann und Dominik Prugger.
+Financial support from the German Research Foundation (DFG) via Collaborative Research Center 649 ‘‘Economic Risk’’ and International Research Training Group 1792 ‘‘High Dimensional Nonstationary Time Series’’, Humboldt-Universität zu Berlin, is gratefully acknowledged. We are thankful for the assistance provided by Nicole Hermann und Dominik Prugger.
 
 ## Contact
 - Alona Zharova, alona.zharova@hu-berlin.de
